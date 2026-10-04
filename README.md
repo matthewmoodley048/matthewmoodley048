@@ -12,4 +12,4 @@ I'm a full stack software engineer who loves learning and building things.
 **Tools:** Git, Docker, Linux, Postman, Microsoft SQL Server, Azure Storage Explorer, K9s, Expo
 
 ### 🌱 Currently
-Working through backend development courses on [Boot.dev](https://boot.dev) and building projects to put what I learn into practice, such as a DEFLATE decoder in C I'm currently working on.
+Working through backend development courses on [Boot.dev](https://boot.dev) and building projects to put what I learn into practice
